@@ -1,0 +1,6 @@
+# Enter your own db connection settings and save as 'my_localsettings.py'.
+#
+# Each developer may have a different local db config, not tracked by source control.
+user = ''
+passwd = ''
+db = ''

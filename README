@@ -1,0 +1,4 @@
+Improved Django settings project, based on ideas and info from all over.
+Several settings are default created from django-admin.py
+
+Feel free to comment, fork, and improve it!
